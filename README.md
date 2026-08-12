@@ -164,4 +164,4 @@ Special acknowledgement to the following resources:
 * [RAG Fusion](https://github.com/Raudaschl/rag-fusion) — inspiration for the multi-query retrieval and reranking approach.
 * [Kaggle Jobs and Job Description Dataset](https://www.kaggle.com/datasets/kshitizregmi/jobs-and-job-description) — source of job description data.
 
-The project is an adaptation and further development of an existing resume-screening RAG implementation. Appropriate credit is retained to the original resources and datasets used.
+
